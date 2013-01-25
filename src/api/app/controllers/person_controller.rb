@@ -1,4 +1,5 @@
 require 'xmlhash'
+require 'opensuse/ldap'
 
 class PersonController < ApplicationController
 
