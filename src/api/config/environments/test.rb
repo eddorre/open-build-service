@@ -43,5 +43,3 @@ CONFIG['global_write_through'] = false
 # make sure we have invalid setup for errbit
 CONFIG['errbit_api_key'] = 'INVALID'
 CONFIG['errbit_host'] = '192.0.2.0'
-
-require 'opensuse/ldap'
